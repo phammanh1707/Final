@@ -1,0 +1,3 @@
+0, manh, 23, 0396363184, 3, fulltime
+1, thoan, 34, 0987678724, 5, parttime
+2, manh, 32, 0972827867, 3, hourly
